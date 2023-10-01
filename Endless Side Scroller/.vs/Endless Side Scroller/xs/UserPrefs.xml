@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{D7791312-C7EE-C495-7784-BB8471906194}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyOutOfBounds.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="34" Column="74" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" Line="29" Column="1" />
-      <File FileName="Assets/Scripts/MoveLeft.cs" Line="18" Column="38" />
-      <File FileName="Assets/Scripts/RepeatBackground.cs" Line="26" Column="1" />
-      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="17" Column="64" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" />
+      <File FileName="Assets/Scripts/MoveLeft.cs" />
+      <File FileName="Assets/Scripts/RepeatBackground.cs" />
+      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Endless Side Scroller" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="DestroyOutOfBounds.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -23,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7431e20-e332-4133-9aeb-c2e6242ba584" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cfddd629-769b-4117-af4e-3eb33f411020" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
